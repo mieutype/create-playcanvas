@@ -1,0 +1,17 @@
+{
+    "name": "Avatar Companion",
+    "short_name": "Companion",
+    "description": "PlayCanvas avatar companion demo",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#10151d",
+    "theme_color": "#10151d",
+    "icons": [
+        {
+            "src": "./avatar-icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}

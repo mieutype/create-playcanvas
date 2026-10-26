@@ -52,6 +52,12 @@ export const STARTERS = [
         description: 'a glTF model, orbit controls and a procedural sky'
     },
     {
+        name: 'avatar-companion',
+        display: 'Avatar Companion',
+        category: 'Viewers',
+        description: 'a VRM-inspired avatar with motion, face tracking and voice chat'
+    },
+    {
         name: 'splat-viewer',
         display: 'Splat Viewer',
         category: 'Viewers',
